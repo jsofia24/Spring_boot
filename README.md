@@ -1,5 +1,5 @@
-# Spring_boot
+# Tasks App
 
-Dearrollo de una app de tareas para poner en práctica la metodología Spring Boot
+Creation of a Tasks App using Spring Boot.
 
 Créditos https://www.youtube.com/watch?v=z_dLYcQqSHI
